@@ -9,7 +9,7 @@ public class Demo {
         WebDriver driver = new ChromeDriver(); // Instantiating ChromeDriver
         driver.get("https://www.google.com/"); // Navigate to our URL
 
-        driver.manage().window().fullscreen(); // Opens our URL in FullScreen
+        driver.manage().window().maximize(); // Opens our URL in FullScreen
 
         driver.quit(); // Quit the driver instance
     }
