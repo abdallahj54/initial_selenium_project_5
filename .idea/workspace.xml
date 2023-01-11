@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b113690b-f532-4a64-9ec5-fbb7ed3f032c" name="Changes" comment="" />
+    <list default="true" id="b113690b-f532-4a64-9ec5-fbb7ed3f032c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/_08_sendKeys.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_09_getText_getAttribute.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chromedriver" beforeDir="false" afterPath="$PROJECT_DIR$/chromedriver" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,23 +52,9 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Assignment01_Facebook">
+  <component name="RunManager" selected="Application._09_getText_getAttribute">
     <configuration name="Assignment01_Facebook" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Assignment01_Facebook" />
-      <module name="initial_selenium_project_5" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_04_Locators_className_name" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_04_Locators_className_name" />
-      <module name="initial_selenium_project_5" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_05_Locators_tagName" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_05_Locators_tagName" />
       <module name="initial_selenium_project_5" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -83,13 +74,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="_08_sendKeys" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_08_sendKeys" />
+      <module name="initial_selenium_project_5" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_09_getText_getAttribute" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_09_getText_getAttribute" />
+      <module name="initial_selenium_project_5" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application._09_getText_getAttribute" />
+        <item itemvalue="Application._08_sendKeys" />
         <item itemvalue="Application.Assignment01_Facebook" />
         <item itemvalue="Application._07_findElements" />
         <item itemvalue="Application._06_Locators_linkText_partialLinkText" />
-        <item itemvalue="Application._05_Locators_tagName" />
-        <item itemvalue="Application._04_Locators_className_name" />
       </list>
     </recent_temporary>
   </component>
