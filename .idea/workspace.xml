@@ -5,16 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b113690b-f532-4a64-9ec5-fbb7ed3f032c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/TestFacebook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_03_Locators_id.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_04_Locators_className_name.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_05_Locators_tagName.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_06_Locators_linkText_partialLinkText.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_07_findElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/utils/Driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/utils/TechGlobalUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/utils/Waiter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TestFacebook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assignment01_Facebook.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,9 +50,9 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TestFacebook">
-    <configuration name="TestFacebook" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TestFacebook" />
+  <component name="RunManager" selected="Application.Assignment01_Facebook">
+    <configuration name="Assignment01_Facebook" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Assignment01_Facebook" />
       <module name="initial_selenium_project_5" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -96,7 +88,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TestFacebook" />
+        <item itemvalue="Application.Assignment01_Facebook" />
         <item itemvalue="Application._07_findElements" />
         <item itemvalue="Application._06_Locators_linkText_partialLinkText" />
         <item itemvalue="Application._05_Locators_tagName" />
