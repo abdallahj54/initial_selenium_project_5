@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b113690b-f532-4a64-9ec5-fbb7ed3f032c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/_08_sendKeys.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_09_getText_getAttribute.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment02_TechGlobal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_10_Child_Elements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_11_Child_Elements_Index.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chromedriver" beforeDir="false" afterPath="$PROJECT_DIR$/chromedriver" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utils/TechGlobalUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils/TechGlobalUtil.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,23 +53,9 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Application._09_getText_getAttribute">
-    <configuration name="Assignment01_Facebook" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Assignment01_Facebook" />
-      <module name="initial_selenium_project_5" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_06_Locators_linkText_partialLinkText" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_06_Locators_linkText_partialLinkText" />
-      <module name="initial_selenium_project_5" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_07_findElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_07_findElements" />
+  <component name="RunManager" selected="Application._11_Child_Elements_Index">
+    <configuration name="Assignment02_TechGlobal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Assignment02_TechGlobal" />
       <module name="initial_selenium_project_5" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -88,13 +75,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="_10_Child_Elements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_10_Child_Elements" />
+      <module name="initial_selenium_project_5" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_11_Child_Elements_Index" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_11_Child_Elements_Index" />
+      <module name="initial_selenium_project_5" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application._11_Child_Elements_Index" />
+        <item itemvalue="Application._10_Child_Elements" />
+        <item itemvalue="Application.Assignment02_TechGlobal" />
         <item itemvalue="Application._09_getText_getAttribute" />
         <item itemvalue="Application._08_sendKeys" />
-        <item itemvalue="Application.Assignment01_Facebook" />
-        <item itemvalue="Application._07_findElements" />
-        <item itemvalue="Application._06_Locators_linkText_partialLinkText" />
       </list>
     </recent_temporary>
   </component>
